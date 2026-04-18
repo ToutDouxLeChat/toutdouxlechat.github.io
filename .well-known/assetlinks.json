@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.toutdouxlechat.twa",
+    "sha256_cert_fingerprints": [
+      "75:17:98:C5:FE:EE:00:FC:20:16:89:86:36:5E:CC:A7:32:2F:4D:D3:09:E6:1B:B7:0B:E7:7F:63:9D:4C:73:F5"
+    ]
+  }
+}]
